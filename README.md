@@ -11,7 +11,9 @@ Entries show the pricing model (**Free**, **Freemium** or **Paid**), a one-line 
 - [Startup databases](#startup-databases)
 - [SaaS and software review sites](#saas-and-software-review-sites)
 - [AI tool directories](#ai-tool-directories)
+- [AI agent & MCP directories](#ai-agent--mcp-directories)
 - [Communities](#communities)
+- [Press & media (pitch routes)](#press--media-pitch-routes)
 - [Business listings](#business-listings)
 - [Marketplaces](#marketplaces)
 - [App & integration marketplaces (needs an integration)](#app--integration-marketplaces-needs-an-integration)
@@ -26,7 +28,8 @@ Each site was reviewed against the same quality filter before it was added:
 - **Clean link profile.** Sites that sell "DR" or backlinks, run link-exchange or badge-swap schemes (a badge on your site is required to get a free listing), or show signs of spam were excluded.
 - **Safe content.** Sites listing casino, gambling or adult content, or carrying injected spam links, were excluded.
 - **Alive and reachable.** Every included URL was re-checked with an HTTP request that follows redirects. Dead, parked and 404 pages were removed. A few well-known sites block automated requests (HTTP 403 or a bot check); they were kept because they are widely used and open normally in a browser.
-- **Direct listings first.** The regular categories only include places where you can post or list a product directly. App stores and integration marketplaces, which need a working integration, are grouped in the final category. Their requirement notes and fees come from each platform's developer documentation; fees are omitted where the docs do not state them.
+- **Direct listings first.** The regular categories include places where you can post or list a product directly, plus the clearly labeled press and media routes. App stores and integration marketplaces, which need a working integration, are grouped in the final category. Their requirement notes and fees come from each platform's developer documentation; fees are omitted where the docs do not state them.
+- **Press routes are labeled.** The press and media category lists editorial contact routes, not listings. Each one was checked for a published tips, pitch, press-release or contributor path, and pitch-only routes say "Pitch, coverage not guaranteed".
 - **One entry per domain.** Sister sites that share one vendor portal (for example the regional Capterra sites) are noted under a single entry.
 
 "Dofollow" or "Nofollow" is shown only where it is known from our review; otherwise it is left out. Approval waits are approximate and based on what each site states.
@@ -50,6 +53,7 @@ Product launch sites and curated startup showcases.
 - [Startups.fyi](https://www.startups.fyi) - **Freemium**. Curated directory and newsletter of profitable startups.
 - [startups.gallery](https://startups.gallery) - **Free**. Hand-picked gallery of early-stage startups; every submission is reviewed by hand. No account needed. [Submit](https://tally.so/r/3ylOB8)
 - [Tiny Startups](https://www.tinystartups.com) - **Freemium**. Human-curated launch platform and newsletter for small startups. [Submit](https://www.tinystartups.com/submit)
+- [Toolfound](https://toolfound.com) - **Freemium**. Launch platform with a permanent listing. Free launches are scheduled in a public queue, so the wait can be long; domain verification is required. [Submit](https://toolfound.com/submit)
 - [Uneed](https://www.uneed.best) - **Freemium**. Curated daily launch platform. Free listings join a waiting line; paid option to skip it. [Submit](https://www.uneed.best/submit-a-tool) _Links: Dofollow only on paid or badge listings._
 
 ## Startup databases
@@ -103,40 +107,78 @@ Directories focused on AI products.
 - [AIxploria](https://www.aixploria.com) - **Freemium**. Popular multilingual AI tools directory. [Submit](https://www.aixploria.com/en/featured-on-aixploria/#submit)
 - [Future Tools](https://www.futuretools.io) - **Free**. Curated AI tools directory and newsletter; submit through the form (no fee shown). [Submit](https://www.futuretools.io/submit-a-tool)
 - [Futurepedia](https://www.futurepedia.io) - **Paid**. One of the largest AI tool directories; listing is paid.
-- [MCP Market](https://mcpmarket.com) - **Freemium**. Directory of MCP servers and agent skills. The free queue takes about 4 to 6 weeks; a one-time paid option lists within 24 hours. [Submit](https://mcpmarket.com/submit)
 - [Opentools](https://opentools.ai) - **Freemium**. Large AI tools directory with editorial content.
 - [The Rundown Supertools](https://www.therundown.ai) - **Freemium**. AI tools directory run by The Rundown AI newsletter. [Submit](https://www.therundown.ai/submit)
 - [There's An AI For That](https://theresanaiforthat.com) - **Paid**. The largest AI tools directory; submission is paid. [Submit](https://theresanaiforthat.com/submit/)
 - [Toolify](https://www.toolify.ai) - **Paid**. Large AI tools directory; submission is paid. [Submit](https://www.toolify.ai/submit)
 - [TopAI.tools](https://topai.tools) - **Freemium**. Large AI tools directory. [Submit](https://topai.tools/submit)
 
+## AI agent & MCP directories
+
+Directories of AI agents and Model Context Protocol (MCP) servers. Most MCP directories expect a public repository, a registry entry or a reachable server endpoint.
+
+- [Agentbrisk](https://agentbrisk.com) - **Free**. Editorial directory of AI agents. Submit by email as described on the submit page; replies take about 5 business days. [Submit](https://agentbrisk.com/submit/)
+- [AgentScout](https://agentscouthq.com) - **Free**. Directory of AI agent tools and MCP servers. Every submission is reviewed, and the site states it has no paid placements in its rankings. [Submit](https://agentscouthq.com/submit)
+- [BusinessMCP](https://businessmcp.com) - **Free**. MCP server marketplace for teams. Submitting creates a free developer account by email code; approved servers appear in the public marketplace. [Submit](https://businessmcp.com/mcp-servers/submit)
+- [Few Servers](https://www.fewservers.com) - **Free**. Large MCP server directory that also reads the official MCP Registry daily. Submissions need a repository or registry URL and are reviewed by a person. [Submit](https://www.fewservers.com/mcp/submit/)
+- [gate](https://gateturbo.com) - **Free**. MCP directory where every server is security-scanned and graded. Needs a Streamable-HTTP endpoint that works without sign-in and a grade of B or better; listings are reviewed by a person. [Submit](https://gateturbo.com/submit)
+- [MCP Collection](https://mcpcollection.com) - **Free**. Reviewed MCP server directory with a free, permanent listing page for each server. Needs an email address for review updates only. [Submit](https://mcpcollection.com/submit)
+- [MCP Market](https://mcpmarket.com) - **Freemium**. Directory of MCP servers and agent skills. The free queue takes about 4 to 6 weeks; a one-time paid option lists within 24 hours. [Submit](https://mcpmarket.com/submit)
+- [MCPizy](https://mcpizy.com) - **Free**. MCP server directory. Submit a repository or website; reviewed listings are published in about 24 hours. [Submit](https://mcpizy.com/submit)
+- [TrackMCP](https://trackmcp.com) - **Freemium**. MCP server directory. The basic listing is always free and needs a public GitHub repository and an email address; a featured slot is paid. [Submit](https://trackmcp.com/submit-mcp)
+
 ## Communities
 
 Communities and publications where founders can share what they built.
 
-- [BetaKit](https://betakit.com) - **Free**. Canadian tech and startup news; send tips and story pitches through its tips page. [Tips](https://betakit.com/tips)
 - [Changelog News](https://changelog.com) - **Free**. Developer news from The Changelog. Sign in to submit; your own work is allowed, tutorials are not. [Submit](https://changelog.com/news/submit)
-- [CX Today](https://cxtoday.com) - **Free**. Trade publication for customer experience, contact center and support technology. Send news and pitches to its news desk; press releases are treated as sources, not stories. [News desk](https://cxtoday.com/news-desk)
 - [DEV Community](https://dev.to) - **Free**. Large developer community; write a genuine post about what you built. [Submit](https://dev.to/new) _Links: Nofollow._
 - [Devpost](https://devpost.com) - **Free**. Hackathon platform where builders publish project pages for the software they make. [Submit](https://devpost.com/software)
+- [freeCodeCamp Forum (I Built This)](https://forum.freecodecamp.org) - **Free**. Moderated forum category on freeCodeCamp for sharing projects and asking for feedback. Follow the forum rules; promotional posts are not allowed. [Category](https://forum.freecodecamp.org/c/project-feedback/409)
 - [Hacker News (Show HN)](https://news.ycombinator.com) - **Free**. Heavily moderated tech community. Show HN posts must be something people can try; no marketing tone. [Submit](https://news.ycombinator.com/submit) _Links: Nofollow._
 - [HackerNoon](https://hackernoon.com) - **Free**. Tech publication where stories are editorially reviewed before publishing. [Submit](https://app.hackernoon.com/new) _Links: Dofollow (canonical link)._
 - [Hashnode](https://hashnode.com) - **Free**. Developer blogging platform and community. _Links: Nofollow._
 - [Hugging Face Spaces](https://huggingface.co/spaces) - **Freemium**. Host and share AI demo apps on Hugging Face. The basic CPU tier is free; upgraded hardware is billed hourly. [Submit](https://huggingface.co/new-space)
-- [Inc42](https://inc42.com) - **Free**. Indian startup media; submit a startup for potential editorial coverage. [Submit](https://inc42.com/startup-submission/)
 - [Indie Hackers](https://www.indiehackers.com) - **Free**. Moderated founder community; add a product page and share progress posts. [Submit](https://www.indiehackers.com/products) _Links: Nofollow._
 - [Land-book](https://land-book.com) - **Freemium**. Curated landing-page design gallery; showcase a well-designed site. Submission needs an account. [Guidelines](https://land-book.com/guidelines)
-- [LatamList](https://latamlist.com) - **Free**. English-language Latin American startup and venture news; send tips or submit a story through the contact page. [Contact](https://latamlist.com/contact/)
-- [Netted](https://www.netted.net) - **Free**. Editorial newsletter from The Webby Awards covering useful sites and apps; pitch by email (see contact page). [Contact](https://www.netted.net/contact-us/)
-- [ProPakistani](https://propakistani.pk) - **Free**. Pakistan technology and business news. Send a news tip through the contact form. [Contact](https://propakistani.pk/contact-us/)
 - [r/SaaS](https://www.reddit.com/r/SaaS/) - **Free**. Reddit community for SaaS founders. Read and follow the subreddit's self-promotion rules. _Links: Nofollow._
-- [Silicon Canals](https://siliconcanals.com) - **Free**. European technology and startup publication. Editorial pitches and press releases go to the editorial address on its contact page; it does not accept paid links. [Contact](https://siliconcanals.com/contact/)
 - [Starter Story](https://www.starterstory.com) - **Free**. Founder-interview publication; apply to share how you started and grew. Requires sign-in. [Submit](https://www.starterstory.com/share)
-- [Startup Daily](https://www.startupdaily.net) - **Free**. Australian and New Zealand startup and tech news. Story ideas go to the news address on its contact page. [Contact](https://www.startupdaily.net/contact-us/)
-- [Startupticker.ch](https://www.startupticker.ch) - **Free**. Swiss startup news portal supported by Innosuisse. News goes to the address on its contact page. [Contact](https://www.startupticker.ch/en/contact)
-- [TechCabal](https://techcabal.com) - **Free**. African technology and startup publication; tips and pitches go to the editorial address on its contact page. [Contact](https://techcabal.com/contact/)
-- [TechJuice](https://www.techjuice.pk) - **Free**. Pakistan technology and startup news; startup tips go to the editors' address on its contact page. [Contact](https://www.techjuice.pk/contact/)
-- [Wamda](https://www.wamda.com) - **Free**. Startup media for the Middle East and North Africa; pitch a story to the editors.
+
+## Press & media (pitch routes)
+
+Editorial routes at news and trade publications: tip lines, pitch emails, press-release forms and contributor programs. Editors decide what to cover, so a pitch or press release never guarantees an article. Entries marked "Pitch, coverage not guaranteed" have no self-serve listing.
+
+- [Arabian Startup](https://arabianstartup.com) - **Free**. Pitch, coverage not guaranteed. Middle East startup news. Startup stories, launches and press releases go to the media address on its contact page; it also sells sponsored features, which are separate. [Contact](https://arabianstartup.com/contact-us/)
+- [BetaKit](https://betakit.com) - **Free**. Pitch, coverage not guaranteed. Canadian tech and startup news; send tips and story pitches through its tips page. [Tips](https://betakit.com/tips)
+- [BusinessCloud](https://businesscloud.co.uk) - **Free**. Pitch, coverage not guaranteed. UK technology business news. Tip-offs go to the newsdesk address on its contact page. [Contact](https://businesscloud.co.uk/contact/)
+- [CMSWire](https://www.cmswire.com) - **Free**. Publication for marketing, customer experience and digital workplace leaders. Apply to its contributor program to write expert, non-promotional articles; acceptance is not guaranteed. [Contributor application](https://www.cmswire.com/about-us/contributor-application/)
+- [Condia](https://thecondia.com) - **Free**. Pitch, coverage not guaranteed. African technology and business publication with a published guide on how to pitch your company or product. [How to pitch](https://thecondia.com/how-to-pitch-to-condia/)
+- [ContactCenterWorld](https://www.contactcenterworld.com) - **Freemium**. Global contact center and customer experience association and publication. Good-quality news and articles can be submitted at no cost under its terms (news must be less than 24 hours old); premium options are paid. [Submit content](https://www.contactcenterworld.com/submit-content.aspx)
+- [CRMXchange](https://www.crmxchange.com) - **Free**. Contact center and CRM resource site with a press-release submission form for vendors. No fee is stated; publication is at the editors' discretion. [Submit press release](https://www.crmxchange.com/prsubmission/)
+- [CX Today](https://cxtoday.com) - **Free**. Pitch, coverage not guaranteed. Trade publication for customer experience, contact center and support technology. Send news and pitches to its news desk; press releases are treated as sources, not stories. [News desk](https://cxtoday.com/news-desk)
+- [Destination CRM](https://www.destinationcrm.com) - **Free**. Pitch, coverage not guaranteed. Website of CRM magazine. Its contact page lists the editors by beat, including customer service and contact centers. [Contact](https://www.destinationcrm.com/About/Contact_Us)
+- [Inc42](https://inc42.com) - **Free**. Pitch, coverage not guaranteed. Indian startup media; submit a startup for potential editorial coverage. [Submit](https://inc42.com/startup-submission/)
+- [IT Brief Australia](https://itbrief.com.au) - **Free**. Pitch, coverage not guaranteed. Australian enterprise IT news from Techday. Press releases go to the editors' address on the contact page; read its submission guidelines first. [Contact](https://itbrief.com.au/contact-us)
+- [LatamList](https://latamlist.com) - **Free**. Pitch, coverage not guaranteed. English-language Latin American startup and venture news; send tips or submit a story through the contact page. [Contact](https://latamlist.com/contact/)
+- [MediaNama](https://www.medianama.com) - **Free**. Pitch, coverage not guaranteed. Indian technology news and policy publication. Send tip-offs through its form; company updates and press releases go to the address on its contact page. [Contact](https://www.medianama.com/contact-us/)
+- [Netted](https://www.netted.net) - **Free**. Pitch, coverage not guaranteed. Editorial newsletter from The Webby Awards covering useful sites and apps; pitch by email (see contact page). [Contact](https://www.netted.net/contact-us/)
+- [Profit by Pakistan Today](https://profit.pakistantoday.com.pk) - **Free**. Pitch, coverage not guaranteed. Pakistan business and startup magazine. Send story ideas and pitches through the news-tips page. [News tips](https://www.pakistantoday.com.pk/news-tips)
+- [ProPakistani](https://propakistani.pk) - **Free**. Pitch, coverage not guaranteed. Pakistan technology and business news. Send a news tip through the contact form. [Contact](https://propakistani.pk/contact-us/)
+- [Qojo Media](https://qojomedia.ae) - **Free**. Pitch, coverage not guaranteed. UAE and Middle East startup and business news. Funding news and product launches go by email to the editorial address on its submission page. [Submit a story](https://qojomedia.ae/submit-startup-story/)
+- [Silicon Canals](https://siliconcanals.com) - **Free**. Pitch, coverage not guaranteed. European technology and startup publication. Editorial pitches and press releases go to the editorial address on its contact page; it does not accept paid links. [Contact](https://siliconcanals.com/contact/)
+- [Silicon Republic](https://www.siliconrepublic.com) - **Free**. Pitch, coverage not guaranteed. Irish science and technology news. Its contact page says emailing the editorial address is the best way to pitch a story. [Contact](https://www.siliconrepublic.com/contact/)
+- [Smart Customer Service](https://www.smartcustomerservice.com) - **Free**. Pitch, coverage not guaranteed. Customer service news from the publisher of CRM magazine, including vendor news briefs. Pitch the editor listed on its contact page. [Contact](https://www.smartcustomerservice.com/Contact.aspx)
+- [Startup Daily](https://www.startupdaily.net) - **Free**. Pitch, coverage not guaranteed. Australian and New Zealand startup and tech news. Story ideas go to the news address on its contact page. [Contact](https://www.startupdaily.net/contact-us/)
+- [Startup.pk](https://startup.pk) - **Free**. Pitch, coverage not guaranteed. Pakistan startup media. Send an original first-person founder story by email; it says editorial feedback comes within about 48 hours. [Publish your story](https://startup.pk/publish-your-story/)
+- [StartupTalky](https://startuptalky.com) - **Free**. Pitch, coverage not guaranteed. Indian startup and business publication. Story pitches go to the address on its contact page. [Contact](https://startuptalky.com/contact/)
+- [Startupticker.ch](https://www.startupticker.ch) - **Free**. Pitch, coverage not guaranteed. Swiss startup news portal supported by Innosuisse. News goes to the address on its contact page. [Contact](https://www.startupticker.ch/en/contact)
+- [Tech Collective SEA](https://techcollectivesea.com) - **Free**. Pitch, coverage not guaranteed. Southeast Asian technology news. Send story pitches through the contact form. [Contact](https://techcollectivesea.com/contact/)
+- [TechCabal](https://techcabal.com) - **Free**. Pitch, coverage not guaranteed. African technology and startup publication; tips and pitches go to the editorial address on its contact page. [Contact](https://techcabal.com/contact/)
+- [TechJuice](https://www.techjuice.pk) - **Free**. Pitch, coverage not guaranteed. Pakistan technology and startup news; startup tips go to the editors' address on its contact page. [Contact](https://www.techjuice.pk/contact/)
+- [Techweez](https://techweez.com) - **Free**. Pitch, coverage not guaranteed. Kenyan and African technology news. Pitch by email using the address on its contact page. [Contact](https://techweez.com/contact-us/)
+- [Trending Topics](https://www.trendingtopics.eu) - **Free**. Pitch, coverage not guaranteed. Startup and technology news for Austria, Germany and Europe. Send story tips by email through the contact page. [Contact](https://www.trendingtopics.eu/contact/)
+- [Vulcan Post](https://vulcanpost.com) - **Free**. Pitch, coverage not guaranteed. Singapore and Malaysia startup and business news. Send news tips through the contact page. [Contact](https://vulcanpost.com/contact-us/)
+- [Wamda](https://www.wamda.com) - **Free**. Pitch, coverage not guaranteed. Startup media for the Middle East and North Africa; pitch a story to the editors.
 
 ## Business listings
 

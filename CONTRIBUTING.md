@@ -37,6 +37,10 @@ A site is added only if it meets all of these:
 
 App stores and integration marketplaces (where you can only list after building an app, plugin, extension or connector) go in the final category, **App & integration marketplaces (needs an integration)**, not in the regular categories. Link the platform's developer documentation instead of a submit page, and describe the app type, the developer or partner account needed and the review. Mention fees or revenue share only if the documentation states them; the pricing label may be left out when the docs do not say.
 
+### Press and media routes
+
+News and trade publications go in **Press & media (pitch routes)** only if they publish a tips, pitch, press-release or contributor path. Link that page instead of a submit page. Start the note with "Pitch, coverage not guaranteed." when the route is an editorial pitch with no self-serve listing.
+
 ## What gets rejected
 
 - Sites that sell "DR", backlinks or guaranteed SEO value.
