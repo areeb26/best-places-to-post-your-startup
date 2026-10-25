@@ -14,6 +14,7 @@ Entries show the pricing model (**Free**, **Freemium** or **Paid**), a one-line 
 - [Communities](#communities)
 - [Business listings](#business-listings)
 - [Marketplaces](#marketplaces)
+- [App & integration marketplaces (needs an integration)](#app--integration-marketplaces-needs-an-integration)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,6 +26,7 @@ Each site was reviewed against the same quality filter before it was added:
 - **Clean link profile.** Sites that sell "DR" or backlinks, run link-exchange or badge-swap schemes (a badge on your site is required to get a free listing), or show signs of spam were excluded.
 - **Safe content.** Sites listing casino, gambling or adult content, or carrying injected spam links, were excluded.
 - **Alive and reachable.** Every included URL was re-checked with an HTTP request that follows redirects. Dead, parked and 404 pages were removed. A few well-known sites block automated requests (HTTP 403 or a bot check); they were kept because they are widely used and open normally in a browser.
+- **Direct listings first.** The regular categories only include places where you can post or list a product directly. App stores and integration marketplaces, which need a working integration, are grouped in the final category. Their requirement notes and fees come from each platform's developer documentation; fees are omitted where the docs do not state them.
 - **One entry per domain.** Sister sites that share one vendor portal (for example the regional Capterra sites) are noted under a single entry.
 
 "Dofollow" or "Nofollow" is shown only where it is known from our review; otherwise it is left out. Approval waits are approximate and based on what each site states.
@@ -79,6 +81,7 @@ Software directories, alternatives sites and B2B review platforms.
 - [Featured Customers](https://www.featuredcustomers.com) - **Freemium**. B2B customer-reference site for case studies and testimonials.
 - [G2](https://www.g2.com) - **Free**. Leading B2B software review platform; free basic profile (a business email is expected). [Submit](https://sell.g2.com/create-a-profile) _Links: Nofollow._
 - [GetApp](https://www.getapp.com) - **Free**. Gartner Digital Markets review site; uses the same vendor portal as Capterra. [Submit](https://www.capterra.com/vendors/sign-up) _Links: Nofollow._
+- [LibHunt](https://www.libhunt.com) - **Free**. Tracks open-source projects and how often developer communities mention them. Open-source repositories only. [Submit](https://www.libhunt.com/repo/submit)
 - [SaaSHub](https://www.saashub.com) - **Freemium**. Moderated software-alternatives directory. The free queue can take 1-12 weeks; paid fast-track available. [Submit](https://www.saashub.com/submit) _Links: Dofollow for verified listings._
 - [SaaSworthy](https://www.saasworthy.com) - **Freemium**. Large software review and comparison directory; vendors manage their own listing.
 - [Slashdot Software](https://slashdot.org/software/) - **Free**. Slashdot Media software directory; uses the same vendor portal as SourceForge. [Submit](https://sourceforge.net/software/vendors/) _Links: Nofollow._
@@ -87,6 +90,7 @@ Software directories, alternatives sites and B2B review platforms.
 - [Software Advice](https://www.softwareadvice.com) - **Free**. Gartner Digital Markets review and advisory site; uses the same vendor portal as Capterra. [Submit](https://www.capterra.com/vendors/sign-up) _Links: Nofollow._
 - [SoftwareSuggest](https://www.softwaresuggest.com) - **Free**. Large B2B software review site with strong reach in India and the Middle East. [Submit](https://www.softwaresuggest.com/vendors)
 - [SourceForge](https://sourceforge.net) - **Free**. Long-established software directory with a free commercial listing via its vendor portal. [Submit](https://sourceforge.net/software/vendors/) _Links: Nofollow._
+- [Spotsaas](https://www.spotsaas.com) - **Free**. Curated B2B software marketplace with buyer reviews. Free to list; new listings are reviewed within about two weeks. [Submit](https://www.spotsaas.com/get-listed)
 - [StackShare](https://stackshare.io) - **Free**. Directory of developer tools and company tech stacks. Sign-in is via GitHub or Google. _Links: Nofollow._
 - [TrustRadius](https://www.trustradius.com) - **Free**. Moderated B2B software review site with a free vendor profile. [Submit](https://www.trustradius.com/vendors) _Links: Nofollow._
 - [WebCatalog](https://webcatalog.io) - **Free**. Catalog of web apps with real users; new apps are reviewed.
@@ -95,10 +99,11 @@ Software directories, alternatives sites and B2B review platforms.
 
 Directories focused on AI products.
 
+- [AI Tools (aitools.inc)](https://aitools.inc) - **Freemium**. AI tools directory with a builder community. The free queue takes about 30 to 90 days; a paid fast lane is available. [Submit](https://aitools.inc/submit)
 - [AIxploria](https://www.aixploria.com) - **Freemium**. Popular multilingual AI tools directory. [Submit](https://www.aixploria.com/en/featured-on-aixploria/#submit)
 - [Future Tools](https://www.futuretools.io) - **Free**. Curated AI tools directory and newsletter; submit through the form (no fee shown). [Submit](https://www.futuretools.io/submit-a-tool)
 - [Futurepedia](https://www.futurepedia.io) - **Paid**. One of the largest AI tool directories; listing is paid.
-- [MCP Registry](https://registry.modelcontextprotocol.io) - **Free**. Official open registry for Model Context Protocol (MCP) servers; publish a server with the registry's CLI. [Submit](https://modelcontextprotocol.io/registry/quickstart)
+- [MCP Market](https://mcpmarket.com) - **Freemium**. Directory of MCP servers and agent skills. The free queue takes about 4 to 6 weeks; a one-time paid option lists within 24 hours. [Submit](https://mcpmarket.com/submit)
 - [Opentools](https://opentools.ai) - **Freemium**. Large AI tools directory with editorial content.
 - [The Rundown Supertools](https://www.therundown.ai) - **Freemium**. AI tools directory run by The Rundown AI newsletter. [Submit](https://www.therundown.ai/submit)
 - [There's An AI For That](https://theresanaiforthat.com) - **Paid**. The largest AI tools directory; submission is paid. [Submit](https://theresanaiforthat.com/submit/)
@@ -111,6 +116,7 @@ Communities and publications where founders can share what they built.
 
 - [BetaKit](https://betakit.com) - **Free**. Canadian tech and startup news; send tips and story pitches through its tips page. [Tips](https://betakit.com/tips)
 - [Changelog News](https://changelog.com) - **Free**. Developer news from The Changelog. Sign in to submit; your own work is allowed, tutorials are not. [Submit](https://changelog.com/news/submit)
+- [CX Today](https://cxtoday.com) - **Free**. Trade publication for customer experience, contact center and support technology. Send news and pitches to its news desk; press releases are treated as sources, not stories. [News desk](https://cxtoday.com/news-desk)
 - [DEV Community](https://dev.to) - **Free**. Large developer community; write a genuine post about what you built. [Submit](https://dev.to/new) _Links: Nofollow._
 - [Devpost](https://devpost.com) - **Free**. Hackathon platform where builders publish project pages for the software they make. [Submit](https://devpost.com/software)
 - [Hacker News (Show HN)](https://news.ycombinator.com) - **Free**. Heavily moderated tech community. Show HN posts must be something people can try; no marketing tone. [Submit](https://news.ycombinator.com/submit) _Links: Nofollow._
@@ -122,8 +128,12 @@ Communities and publications where founders can share what they built.
 - [Land-book](https://land-book.com) - **Freemium**. Curated landing-page design gallery; showcase a well-designed site. Submission needs an account. [Guidelines](https://land-book.com/guidelines)
 - [LatamList](https://latamlist.com) - **Free**. English-language Latin American startup and venture news; send tips or submit a story through the contact page. [Contact](https://latamlist.com/contact/)
 - [Netted](https://www.netted.net) - **Free**. Editorial newsletter from The Webby Awards covering useful sites and apps; pitch by email (see contact page). [Contact](https://www.netted.net/contact-us/)
+- [ProPakistani](https://propakistani.pk) - **Free**. Pakistan technology and business news. Send a news tip through the contact form. [Contact](https://propakistani.pk/contact-us/)
 - [r/SaaS](https://www.reddit.com/r/SaaS/) - **Free**. Reddit community for SaaS founders. Read and follow the subreddit's self-promotion rules. _Links: Nofollow._
+- [Silicon Canals](https://siliconcanals.com) - **Free**. European technology and startup publication. Editorial pitches and press releases go to the editorial address on its contact page; it does not accept paid links. [Contact](https://siliconcanals.com/contact/)
 - [Starter Story](https://www.starterstory.com) - **Free**. Founder-interview publication; apply to share how you started and grew. Requires sign-in. [Submit](https://www.starterstory.com/share)
+- [Startup Daily](https://www.startupdaily.net) - **Free**. Australian and New Zealand startup and tech news. Story ideas go to the news address on its contact page. [Contact](https://www.startupdaily.net/contact-us/)
+- [Startupticker.ch](https://www.startupticker.ch) - **Free**. Swiss startup news portal supported by Innosuisse. News goes to the address on its contact page. [Contact](https://www.startupticker.ch/en/contact)
 - [TechCabal](https://techcabal.com) - **Free**. African technology and startup publication; tips and pitches go to the editorial address on its contact page. [Contact](https://techcabal.com/contact/)
 - [TechJuice](https://www.techjuice.pk) - **Free**. Pakistan technology and startup news; startup tips go to the editors' address on its contact page. [Contact](https://www.techjuice.pk/contact/)
 - [Wamda](https://www.wamda.com) - **Free**. Startup media for the Middle East and North Africa; pitch a story to the editors.
@@ -146,32 +156,51 @@ Official and established business listing services.
 
 ## Marketplaces
 
-Official app stores, integration marketplaces and deal or acquisition marketplaces.
+Software deal, B2B software and startup acquisition marketplaces where you list the product itself. No app or integration is needed.
 
 - [Acquire.com](https://acquire.com) - **Paid**. Marketplace for selling startups and online businesses. Seller pricing scales with the asking price and includes a closing fee when the business sells. [Submit](https://acquire.com/sellers/)
-- [Apple App Store](https://www.apple.com/app-store/) - **Paid**. Official store for iPhone, iPad and Mac apps; requires the Apple Developer Program ($99 per year) and App Review. [Submit](https://developer.apple.com/programs/)
 - [AppSumo Marketplace](https://appsumo.com) - **Free**. Major software deals marketplace; free to apply, revenue share on sales. [Submit](https://sell.appsumo.com/) _Links: Nofollow._
-- [Atlassian Marketplace](https://marketplace.atlassian.com) - **Free**. Apps for Jira, Confluence and other Atlassian products. Free apps pay no revenue share; paid apps share revenue with Atlassian. [Submit](https://developer.atlassian.com/platform/marketplace/)
-- [AWS Marketplace](https://aws.amazon.com/marketplace) - **Free**. Sell SaaS and software to AWS customers. No upfront cost; AWS deducts a listing fee from sales (3% for public SaaS offers). [Submit](https://aws.amazon.com/partners/marketplace/)
-- [Chrome Web Store](https://chromewebstore.google.com) - **Paid**. Official Google store for browser extensions; one-time $5 developer registration fee. [Submit](https://chrome.google.com/webstore/devconsole) _Links: Nofollow._
 - [Dealmirror](https://dealmirror.com) - **Free**. Lifetime-deal software marketplace; revenue share on sales.
 - [Discover Cloud](https://www.discovercloud.com) - **Free**. AppDirect B2B cloud software marketplace; registering a product is free. [Submit](https://www.discovercloud.com/become-a-vendor)
-- [Figma Community](https://www.figma.com/community) - **Free**. Publish files and resources to the Figma Community; files can be shared free or sold. [Submit](https://help.figma.com/hc/en-us/articles/360040035974)
-- [Firefox Add-ons](https://addons.mozilla.org) - **Free**. Official Mozilla add-ons directory; a free developer account is needed and listed add-ons may be reviewed. [Submit](https://extensionworkshop.com/documentation/publish/)
-- [Google Play](https://play.google.com) - **Paid**. Official Android app store; one-time developer registration fee. [Submit](https://play.google.com/console)
-- [Google Workspace Marketplace](https://workspace.google.com/marketplace) - **Free**. Apps that integrate with Gmail, Drive, Docs and other Google Workspace tools; Google charges no listing fee. [Submit](https://developers.google.com/workspace/marketplace/overview)
-- [HubSpot App Marketplace](https://ecosystem.hubspot.com/marketplace/apps) - **Free**. Official HubSpot integrations marketplace; requires a HubSpot integration. [Submit](https://developers.hubspot.com/) _Links: Nofollow._
-- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons) - **Free**. Official Microsoft Edge extension store; there is no registration fee and developers enrol through Partner Center. [Submit](https://learn.microsoft.com/en-us/microsoft-edge/extensions/publish/publish-extension)
-- [Microsoft Marketplace](https://appsource.microsoft.com) - **Free**. Microsoft's business software marketplace (formerly AppSource). No listing fee; a 3% store service fee applies to transactable sales. [Submit](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/overview)
 - [SaaS Mantra](https://saasmantra.com) - **Free**. Software deals marketplace; revenue share on sales.
-- [Salesforce AppExchange](https://appexchange.salesforce.com) - **Freemium**. Salesforce's app marketplace (being rebranded AgentExchange). Listed apps must pass a security review: no fee for free apps, $999 per submission for paid apps. [Submit](https://partners.salesforce.com/)
-- [Shopify App Store](https://apps.shopify.com) - **Free**. Official Shopify app marketplace; requires a Shopify app; revenue share applies. [Submit](https://partners.shopify.com/) _Links: Nofollow._
 - [SideProjectors](https://www.sideprojectors.com) - **Free**. Marketplace to showcase or sell side projects.
-- [Slack Marketplace](https://slack.com/marketplace) - **Free**. Manually reviewed directory of Slack apps. Slack charges no fee; the functional review can take up to about 10 weeks. [Submit](https://docs.slack.dev/slack-marketplace)
-- [Wix App Market](https://www.wix.com/app-market) - **Free**. Official Wix app marketplace; requires a Wix app. [Submit](https://dev.wix.com/) _Links: Nofollow._
-- [WordPress.org Plugins](https://wordpress.org/plugins/) - **Free**. Official WordPress plugin directory; plugins are reviewed before approval. [Submit](https://wordpress.org/plugins/developers/add/) _Links: Nofollow._
-- [Zapier App Directory](https://zapier.com/apps) - **Free**. Official Zapier integrations directory; requires a Zapier integration. [Submit](https://developer.zapier.com/) _Links: Nofollow._
-- [Zoom App Marketplace](https://marketplace.zoom.us) - **Free**. Public Zoom apps go through a submission and security review; Zoom takes a 15% commission on paid apps sold through it. [Submit](https://developers.zoom.us/docs/distribute/)
+
+## App & integration marketplaces (needs an integration)
+
+**These are not "post about your startup" sites.** You can only list here after you build a real app, plugin, extension or connector for that platform and it passes the platform's review. Each note gives the app type, the developer or partner account needed, the review, and fees or revenue share only where the platform's documentation states them.
+
+- [Apple App Store](https://www.apple.com/app-store/) - **Paid**. iPhone, iPad or Mac app. Requires the Apple Developer Program ($99 per year) and App Review. Apple charges a commission on paid apps and in-app purchases (15% under the Small Business Program). [Developer docs](https://developer.apple.com/programs/)
+- [Atlassian Marketplace](https://marketplace.atlassian.com) - **Free**. App for Jira, Confluence or other Atlassian products. Needs a Marketplace partner account; apps are submitted for review against the app approval guidelines. Free apps pay no revenue share; paid apps share revenue with Atlassian. [Developer docs](https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/)
+- [AWS Marketplace](https://aws.amazon.com/marketplace) - **Free**. SaaS, container or other software product. Needs an AWS Marketplace seller account. No upfront cost; AWS deducts a listing fee from sales (3% for public SaaS offers). [Developer docs](https://aws.amazon.com/partners/marketplace/)
+- [Canva Apps Marketplace](https://www.canva.com/apps/) - Canva app built with the Apps SDK. Submitted through the Canva Developer Portal, including developer verification, and must pass Canva's app review. [Developer docs](https://www.canva.dev/docs/apps/submitting-apps/)
+- [ChatGPT app directory](https://chatgpt.com/apps) - ChatGPT app built with the Apps SDK on an MCP server. Needs a verified OpenAI Platform account (individual or business) and must pass OpenAI's app review before you can publish it. [Developer docs](https://developers.openai.com/apps-sdk/app-submission-guidelines)
+- [Chrome Web Store](https://chromewebstore.google.com) - **Paid**. Browser extension. Register as a Chrome Web Store developer (one-time registration fee); items go through the store's review process. [Developer docs](https://developer.chrome.com/docs/webstore/register) _Links: Nofollow._
+- [Claude connectors directory](https://claude.com/marketplace/connectors-plugins) - Remote MCP server (connector) or plugin for Claude. Submitted through Anthropic's portal and reviewed against its connector review criteria. [Developer docs](https://claude.com/docs/connectors/building/submission)
+- [Figma Community](https://www.figma.com/community) - **Free**. Figma plugin or widget (design files can also be published). Needs a Figma account with two-factor authentication; plugins go through Figma's review before they are listed. [Developer docs](https://help.figma.com/hc/en-us/articles/360042293394)
+- [Firefox Add-ons](https://addons.mozilla.org) - **Free**. Firefox extension. Needs a free addons.mozilla.org developer account; listed add-ons may be reviewed by Mozilla. [Developer docs](https://extensionworkshop.com/documentation/publish/)
+- [Freshworks Marketplace](https://www.freshworks.com/apps/) - App for Freshdesk and other Freshworks products, built with the Freshworks SDK. Public apps are submitted through the developer portal and go through code, QA, content, security and business review. [Developer docs](https://developers.freshworks.com/docs/app-sdk/v3.0/common/app-submission-process/)
+- [Google Play](https://play.google.com) - **Paid**. Android app. Needs a Play Console developer account with a US$25 one-time registration fee; service fees apply to paid apps and in-app purchases. [Developer docs](https://support.google.com/googleplay/android-developer/answer/6112435)
+- [Google Workspace Marketplace](https://workspace.google.com/marketplace) - **Free**. Add-on or app for Gmail, Drive, Docs and other Workspace tools. Needs a Google Cloud project; public apps go through Google's app review. No listing fee. [Developer docs](https://developers.google.com/workspace/marketplace/about-app-review)
+- [HubSpot App Marketplace](https://ecosystem.hubspot.com/marketplace/apps) - **Free**. Public HubSpot app using OAuth. Needs a HubSpot developer account, at least three active installs from unaffiliated customer accounts, and manual review by HubSpot's Ecosystem Quality team. [Developer docs](https://developers.hubspot.com/docs/apps/developer-platform/list-apps/listing-your-app/app-marketplace-listing-requirements) _Links: Nofollow._
+- [Intercom App Store](https://www.intercom.com/app-store) - Public Intercom app using OAuth, built in the Developer Hub. Intercom reviews public apps (up to about seven business days) and asks for test access and an install-to-uninstall video. [Developer docs](https://developers.intercom.com/docs/publish-to-the-app-store/review-publish-your-app)
+- [Make integrations](https://www.make.com/en/integrations) - Custom app for the Make automation platform. Apps must pass Make's app review before they become public. The Make site blocks automated checks; the developer docs were reachable. [Developer docs](https://developers.make.com/custom-apps-documentation/app-review/overview)
+- [MCP Registry](https://registry.modelcontextprotocol.io) - **Free**. Official open registry for Model Context Protocol (MCP) servers. Needs a published MCP server package or remote endpoint; publish with the registry's publisher CLI. [Developer docs](https://modelcontextprotocol.io/registry/quickstart)
+- [Meta Business Partner Directory](https://www.facebook.com/business/partner-directory) - For WhatsApp Business Platform apps. Become a Tech Provider (Meta business verification plus App Review for advanced WhatsApp permissions), then meet Tech Partner thresholds and be approved as a Meta Business Partner to be listed. Meta's sites block automated checks; requirements were confirmed from Meta's developer docs. [Developer docs](https://developers.facebook.com/docs/whatsapp/solution-providers/)
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons) - **Free**. Edge extension. Enrol and submit through Partner Center; there is no registration fee. [Developer docs](https://learn.microsoft.com/en-us/microsoft-edge/extensions/publish/publish-extension)
+- [Microsoft Marketplace](https://appsource.microsoft.com) - **Free**. SaaS app or other business software offer (formerly AppSource). Needs a Partner Center account. No listing fee; a 3% store service fee applies to transactable sales. [Developer docs](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/overview)
+- [monday.com Apps Marketplace](https://monday.com/marketplace) - monday.com app submitted from the Developer Center for product, security, privacy, support and listing review. New apps use monday's built-in monetization; after $200,000 in lifetime revenue, monday.com collects 15%. [Developer docs](https://developer.monday.com/apps/docs/submit-your-app)
+- [Pipedrive Marketplace](https://www.pipedrive.com/en/marketplace) - Public Pipedrive app registered in the Developer Hub; it must pass Pipedrive's app approval process. [Developer docs](https://pipedrive.readme.io/docs/marketplace-app-approval-process)
+- [Salesforce AppExchange](https://appexchange.salesforce.com) - **Freemium**. Salesforce app or agent (AppExchange is being rebranded AgentExchange). Needs a Salesforce partner account; listed apps must pass a security review: no fee for free apps, $999 per submission for paid apps. [Developer docs](https://partners.salesforce.com/)
+- [Shopify App Store](https://apps.shopify.com) - **Paid**. Shopify app reviewed by the App Review team. Needs a Shopify Partner account and a one-time $19 App Store registration fee; most developers pay 0% revenue share on the first $1,000,000 of lifetime app revenue and 15% above that. [Developer docs](https://shopify.dev/docs/apps/launch/app-store-review) _Links: Nofollow._
+- [Slack Marketplace](https://slack.com/marketplace) - **Free**. Slack app. Apps are reviewed by hand, and the review can take up to about 10 weeks; Slack charges no fee. [Developer docs](https://docs.slack.dev/slack-marketplace)
+- [Stripe App Marketplace](https://marketplace.stripe.com) - Stripe App built with the Stripe Apps tools. Submit the app and listing for review (Stripe states about four business days); changes need another review. [Developer docs](https://docs.stripe.com/stripe-apps/publish-app)
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com) - VS Code extension published with the vsce tool under a Marketplace publisher. Optional verified-publisher status needs domain verification, which the Marketplace team reviews. [Developer docs](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+- [Webflow Apps](https://webflow.com/apps) - Webflow app (Data Client or Designer Extension). Webflow reviews each submission against its Marketplace Guidelines; Designer Extensions must be reviewable from source. [Developer docs](https://developers.webflow.com/apps/docs/publishing-your-app)
+- [Wix App Market](https://www.wix.com/app-market) - **Free**. Wix app built in the Wix developer platform. Market listings go through an automated review. Developers keep 100% of revenue in the first year and 80% after that, calculated after a 2.5% transaction fee. [Developer docs](https://dev.wix.com/docs/build-apps/launch-your-app/about-launching-apps) _Links: Nofollow._
+- [WordPress.org Plugins](https://wordpress.org/plugins/) - **Free**. GPL-compatible WordPress plugin. Needs a WordPress.org account; plugins are reviewed before they are approved for the directory. [Developer docs](https://developer.wordpress.org/plugins/wordpress-org/) _Links: Nofollow._
+- [Zapier App Directory](https://zapier.com/apps) - **Free**. Public Zapier integration built on the Developer Platform. Zapier reviews it before publishing, and it starts in a Beta phase. [Developer docs](https://docs.zapier.com/platform/publish/public-integration) _Links: Nofollow._
+- [Zendesk Marketplace](https://www.zendesk.com/marketplace/) - Zendesk app or integration. Register your organization in the Marketplace developer portal; new submissions are reviewed in about 1 to 3 weeks. The Zendesk site blocks automated checks; the developer docs were reachable. [Developer docs](https://developer.zendesk.com/documentation/marketplace/publishing-to-the-marketplace/submit-your-app/)
+- [Zoom App Marketplace](https://marketplace.zoom.us) - **Free**. Zoom app. Public apps go through a submission and security review; Zoom takes a 15% commission on paid apps sold through the marketplace. [Developer docs](https://developers.zoom.us/docs/distribute/)
 
 ## Contributing
 
