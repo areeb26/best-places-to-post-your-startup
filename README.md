@@ -4,6 +4,12 @@ A curated list of reputable websites where founders can launch, list or share a 
 
 Entries show the pricing model (**Free**, **Freemium** or **Paid**), a one-line note, and the link type (dofollow or nofollow) where it is known. Pricing and policies change, so check each site before you submit.
 
+## About the maintainer
+
+Areeb Ahmed Khan (The AI Khan) is an AI product builder from Karachi, Pakistan. People bring him problems, and he builds what makes them go away. He's Cofounder & CTO of 12Pilot and CEO of Intezam Tech, and he shares the AI tools and open-source Claude Code skills he builds at [theaikhan.com](https://www.theaikhan.com).
+
+[Website](https://www.theaikhan.com) · [X](https://x.com/TheAIKhan) · [LinkedIn](https://www.linkedin.com/in/areeb-ahmed-khan-aiautomation) · [Instagram](https://www.instagram.com/areeb.theaikhan) · [GitHub](https://github.com/areeb26) · [Book a call](https://calendly.com/itsareebahmedkhan/new-meeting)
+
 ## Contents
 
 - [How we chose](#how-we-chose)
