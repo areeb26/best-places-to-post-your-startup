@@ -10,6 +10,8 @@ Areeb Ahmed Khan (The AI Khan) is an AI product builder from Karachi, Pakistan. 
 
 [Website](https://www.theaikhan.com) · [X](https://x.com/TheAIKhan) · [LinkedIn](https://www.linkedin.com/in/areeb-ahmed-khan-aiautomation) · [Instagram](https://www.instagram.com/areeb.theaikhan) · [GitHub](https://github.com/areeb26) · [Book a call](https://calendly.com/itsareebahmedkhan/new-meeting)
 
+📬 **Newsletter:** [Subscribe to The AI Khan newsletter](https://www.theaikhan.com/#newsletter)
+
 ## Contents
 
 - [How we chose](#how-we-chose)
