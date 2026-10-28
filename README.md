@@ -86,14 +86,17 @@ Company and startup databases used by investors, journalists and partners.
 
 Software directories, alternatives sites and B2B review platforms.
 
+- [Agency Spotter](https://www.agencyspotter.com) - **Freemium**. Agency directory used by marketers to shortlist agencies. The free plan includes a portfolio and client reviews; promoted placement is paid. [Submit](https://www.agencyspotter.com/agency-signup)
 - [Alternative.me](https://alternative.me) - **Free**. Long-running software alternatives directory; submit from the dashboard after creating an account. [Submit](https://alternative.me/how-to/submit-software/)
 - [AlternativeTo](https://alternativeto.net) - **Free**. Large, moderated software-alternatives site. New listings go through a review queue. [Submit](https://alternativeto.net/add-app/) _Links: Nofollow._
 - [Capterra](https://www.capterra.com) - **Free**. Gartner Digital Markets review site. One vendor account also covers GetApp, Software Advice and regional Capterra sites; pay-per-click is optional. [Submit](https://www.capterra.com/vendors/sign-up) _Links: Nofollow._
 - [Conversational AI Marketplace](https://marketplace.conversationalainews.com) - **Freemium**. Vendor directory from Conversational AI News covering chatbot, voice AI and conversational AI products and services. The basic listing is free; enhanced and premium listings are paid. [Submit](https://marketplace.conversationalainews.com/submit-vendor)
 - [Crozdesk](https://crozdesk.com) - **Free**. Software search and review site; vendor listings are approved manually through its Revleads vendor portal. [Submit](https://vendor.revleads.com/)
+- [DesignRush](https://www.designrush.com) - **Freemium**. Directory of agencies and service providers, sorted by service and location. The basic listing is free; paid placements are available. [Submit](https://www.designrush.com/agency/registration)
 - [Featured Customers](https://www.featuredcustomers.com) - **Freemium**. B2B customer-reference site for case studies and testimonials.
 - [G2](https://www.g2.com) - **Free**. Leading B2B software review platform; free basic profile (a business email is expected). [Submit](https://sell.g2.com/create-a-profile) _Links: Nofollow._
 - [GetApp](https://www.getapp.com) - **Free**. Gartner Digital Markets review site; uses the same vendor portal as Capterra. [Submit](https://www.capterra.com/vendors/sign-up) _Links: Nofollow._
+- [GoodFirms](https://www.goodfirms.co) - **Freemium**. B2B review directory for software vendors and service companies. The free company profile is reviewed before it goes live and needs a business email; paid sponsorship plans add placement. [Submit](https://www.goodfirms.co/get-listed) _Links: Nofollow._
 - [LibHunt](https://www.libhunt.com) - **Free**. Tracks open-source projects and how often developer communities mention them. Open-source repositories only. [Submit](https://www.libhunt.com/repo/submit)
 - [SaaSHub](https://www.saashub.com) - **Freemium**. Moderated software-alternatives directory. The free queue can take 1-12 weeks; paid fast-track available. [Submit](https://www.saashub.com/submit) _Links: Dofollow for verified listings._
 - [SaaSworthy](https://www.saasworthy.com) - **Freemium**. Large software review and comparison directory; vendors manage their own listing.
@@ -105,6 +108,7 @@ Software directories, alternatives sites and B2B review platforms.
 - [SourceForge](https://sourceforge.net) - **Free**. Long-established software directory with a free commercial listing via its vendor portal. [Submit](https://sourceforge.net/software/vendors/) _Links: Nofollow._
 - [Spotsaas](https://www.spotsaas.com) - **Free**. Curated B2B software marketplace with buyer reviews. Free to list; new listings are reviewed within about two weeks. [Submit](https://www.spotsaas.com/get-listed)
 - [StackShare](https://stackshare.io) - **Free**. Directory of developer tools and company tech stacks. Sign-in is via GitHub or Google. _Links: Nofollow._
+- [TechBehemoths](https://techbehemoths.com) - **Freemium**. Directory of IT and digital service companies with client reviews. The company profile is free; paid plans add visibility. [Submit](https://techbehemoths.com/companies/get-listed)
 - [TrustRadius](https://www.trustradius.com) - **Free**. Moderated B2B software review site with a free vendor profile. [Submit](https://www.trustradius.com/vendors) _Links: Nofollow._
 - [WebCatalog](https://webcatalog.io) - **Free**. Catalog of web apps with real users; new apps are reviewed.
 
@@ -212,6 +216,7 @@ Official and established business listing services.
 - [Google Business Profile](https://www.google.com/business/) - **Free**. Official Google listing for Search and Maps. Verification (for example by postcard or video) is required. [Submit](https://business.google.com/create)
 - [ProvenExpert](https://www.provenexpert.com) - **Freemium**. Customer review and reputation profile with a limited free plan; paid plans add features. [Submit](https://www.provenexpert.com/en-us/register/)
 - [The Manifest](https://themanifest.com) - **Free**. Clutch-owned business directory; profiles are created through Clutch. [Submit](https://clutch.co/get-listed) _Links: Nofollow._
+- [The Org](https://theorg.com) - **Freemium**. Public org charts for companies. Claim or create a company page and add the team; the basic plan is free. [Submit](https://theorg.com/signup)
 - [Trustpilot](https://www.trustpilot.com) - **Freemium**. Major consumer review platform with a free business profile. [Submit](https://signup.business.trustpilot.com/create-account) _Links: Nofollow._
 - [Yell](https://www.yell.com) - **Freemium**. Major UK business directory; free listing requires a UK address. [Submit](https://www.yell.com/free-listing/)
 - [Yelp for Business](https://biz.yelp.com) - **Free**. Official Yelp business listing, mainly for US businesses. _Links: Nofollow._
