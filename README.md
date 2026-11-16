@@ -131,6 +131,7 @@ Directories focused on AI products.
 
 Directories of AI agents and Model Context Protocol (MCP) servers. Most MCP directories expect a public repository, a registry entry or a reachable server endpoint.
 
+- [Add AI Directory](https://www.addaidirectory.com) - **Free**. A curated directory of AI agents organized by category, with editorial reviews and free submissions. [Submit](https://www.addaidirectory.com/submit-ai-agent)
 - [Agentbrisk](https://agentbrisk.com) - **Free**. Editorial directory of AI agents. Submit by email as described on the submit page; replies take about 5 business days. [Submit](https://agentbrisk.com/submit/)
 - [AgentScout](https://agentscouthq.com) - **Free**. Directory of AI agent tools and MCP servers. Every submission is reviewed, and the site states it has no paid placements in its rankings. [Submit](https://agentscouthq.com/submit)
 - [BusinessMCP](https://businessmcp.com) - **Free**. MCP server marketplace for teams. Submitting creates a free developer account by email code; approved servers appear in the public marketplace. [Submit](https://businessmcp.com/mcp-servers/submit)
